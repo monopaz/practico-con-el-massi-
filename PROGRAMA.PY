@@ -2,4 +2,8 @@
 def saludar():
 print("Hola desde el examen de recuperatorio")
 if __name__ == "__main__":
+def despedir():
+print("Hasta pronto!")
+if __name__ == "__main__":
 saludar()
+despedir()
