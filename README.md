@@ -1,1 +1,1 @@
-# practica recuperatorio
+# Proyecto de recuperatorio - Versión actualizada
